@@ -1,9 +1,9 @@
-# INTRODUCTION TO COMPUTER SYSTEM DESIGN
+# parcial
 ---------------------------------------------------------------------------------------------------------------------------------------
-Mi primer proyecto
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 nicolas patiño parra
 ------------------------------------------------------------------------------------------------------------------------------------------
-este programa calculara la media y la desviacion estandar de una lista encadenada, los datos deberia leerlos de una pagina web.
+este programa calculara la sumatoria, el maximo y el minimo de una lista encadenada los datos deberia leerlos de una pagina web.
 ------------------------------------------------------------------------------------------------------------------------------------------
 link heroku : https://infinite-shelf-40150.herokuapp.com/inputdata
